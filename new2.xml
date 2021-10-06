@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <about>
-  <name>Tove</name>
-  <age>Jani</age>
-  <pets>Reminder</pets>
-  <salary>Don't forget me this weekend!</salary>
-</about>
+    <name>Aleshin Alesha Aleshevich</name>
+    <age>28</age>
+    <pets>1</pets>
+    <salary>9000</salary>
+    <favoriteFilm>Interstellar</favoriteFilm>
+    <favoriteTVSeries>Shameless</favoriteTVSeries>
+    <favoriteFood>sandviches</favoriteFood>
+    <favoriteSeason>autumn</favoriteSeason>
+    <countryToVisit>USA</countryToVisit>
+</about
