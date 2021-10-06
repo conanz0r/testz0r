@@ -1,6 +1,11 @@
 {
-    "fullName": "Aleshin Alesha Aleshevich",
-    "age": 28,
-    "numberOfPets": 1,
-    "expectedSalary": 9000
+	"fullName": "Aleshin Alesha Aleshevich",
+	"age": 28,
+	"numberOfPets": 1,
+	"expectedSalary": 9000,
+	"favoriteFilm": "Interstellar",
+	"favoriteTVSeries": "Shameless",
+	"favoriteFood": "sandviches",
+	"favoriteSeason": "autumn",
+	"countryToVisit": "USA"
 }
